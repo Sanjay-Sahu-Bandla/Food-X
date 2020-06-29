@@ -1,0 +1,28 @@
+[
+    {
+        "order_id": "5ef7456f0faea",
+        "user_id": "5ef7456f0faed",
+        "restaurant": "Friends Chinese Food",
+        "food_name": [
+            "Chicken Whopper",
+            "Aloo Paratha"
+        ],
+        "food_price": [
+            298,
+            45
+        ],
+        "food_quantities": [
+            "2",
+            "1"
+        ],
+        "total": 641,
+        "reciever_name": "Sanjay Sahu Bandla",
+        "phone": "-1",
+        "address": "Sai Nagar 2, Nizamabad, Telangana",
+        "name_on_card": "Sanjay Sahu Bandla",
+        "debit_card_no": "-1",
+        "expire": "df",
+        "cvv": "1",
+        "timestamp": "June 27, 2020, 6:41 pm"
+    }
+]

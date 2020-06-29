@@ -1,0 +1,159 @@
+[
+
+	{
+		"id": 1,
+		"name": "Tandoori Chicken",
+		"price": 200,
+		"ratings": 4.9,
+		"category": "Non Veg"
+	},
+	{
+		"id": 2,
+		"name": "Chicken Whopper",
+		"price": 298,
+		"ratings": 4.4,
+		"category": "Non Veg"
+	},
+	{
+		"id": 3,
+		"name": "Makhani Pizza",
+		"price": 459,
+		"ratings": 4.1,
+		"category": "Veg"
+	},
+	{
+		"id": 4,
+		"name": "Aloo Paratha",
+		"image": "Fruit_Honey_Muesli.jpg",
+		"price": 45,
+		"ratings": 4.0,
+		"category": "Veg"
+	},
+	{
+		"id": 5,
+		"name": "Special Paneer Sabji",
+		"price": 48,
+		"ratings": 4.3,
+		"category": "Veg"
+	},
+	{
+		"id": 6,
+		"name": "Veg Manchow Soup",
+		"price": 70,
+		"ratings": 4.4,
+		"category": "Chinese"
+	},
+	{
+		"id": 7,
+		"name": "Veg Noodles",
+		"price": 60,
+		"ratings": 4.1,
+		"category": "Chinese"
+	},
+	{
+		"id": 8,
+		"name": "Veg Fried Rice",
+		"price": 70,
+		"ratings": 3.7,
+		"category": "Chinese"
+	},
+	{
+		"id": 9,
+		"name": "Egg Fried Rice",
+		"price": 80,
+		"ratings": 3.5,
+		"category": "Chinese"
+	},
+	{
+		"id": 10,
+		"name": "Veg Manchurian",
+		"price": 70,
+		"ratings": 4.4,
+		"category": "Chinese"
+	},
+	{
+		"id": 11,
+		"name": "Chilli Paneer",
+		"price": 320,
+		"ratings": 3.7,
+		"category": "Veg"
+	},
+	{
+		"id": 12,
+		"name": "Crispy Baby corn ",
+		"price": 300,
+		"ratings": 4.7,
+		"category": "Veg"
+	},
+	{
+		"id": 13,
+		"name": "Vegetable Spring Rolls",
+		"price": 280,
+		"ratings": 4.0,
+		"category": "Veg"
+	},
+	{
+		"id": 14,
+		"name": "Paneer Butter Masala",
+		"price": 280,
+		"ratings": 3.3,
+		"category": "Veg"
+	},
+	{
+		"id": 15,
+		"name": "Dal Tadka",
+		"price": 230,
+		"ratings": 4.3,
+		"category": "Veg"
+	},
+	{
+		"id": 16,
+		"name": "Chicken Korma",
+		"price": 525,
+		"ratings": 4.1,
+		"category": "Non Veg"
+	},
+	{
+		"id": 17,
+		"name": "Hyderabadi Biryani",
+		"price": 140,
+		"ratings": 4.4,
+		"category": "Non Veg"
+	},
+	{
+		"id": 18,
+		"name": "Special Dum Nihari Gosht",
+		"price": 645,
+		"ratings": 3.7,
+		"category": "Non Veg"
+	},
+	{
+		"id": 19,
+		"name": "Crispy Chicken Popcorn",
+		"price": 180,
+		"ratings": 4.1,
+		"category": "Non Veg"
+	},
+	{
+		"id": 20,
+		"name": "Chicken Nuggets (8 Pcs)",
+		"price": 160,
+		"ratings": 4.2,
+		"category": "Non Veg"
+	},
+	{
+		"id": 21,
+		"name": "Red Velvet Cake",
+		"price": 595,
+		"ratings": 3.2,
+		"category": "Non Veg"
+	},
+	{
+		"id": 22,
+		"name": "Chocolate Truffle",
+		"price": 320,
+		"ratings": 4.5,
+		"category": "Non Veg"
+	}
+
+]

@@ -1,0 +1,148 @@
+[
+
+	{
+		"id": 1,
+		"name": "King's Chinese Point",
+		"category": "chinese",
+		"ratings": 4.2,
+		"delivery_time":40,
+		"min_order": 40
+	},
+	{
+		"id": 2,
+		"name": "Wai Yu Mun Ching",
+		"category": "chinese",
+		"ratings": 4.0,
+		"delivery_time":37,
+		"min_order": 44
+	},
+	{
+		"id": 3,
+		"name": "Chinese King",
+		"category": "chinese",
+		"ratings": 3.5,
+		"delivery_time":38,
+		"min_order": 50
+	},
+	{
+		"id": 4,
+		"name": "Friends Chinese Food",
+		"category": "chinese",
+		"ratings": 3.6,
+		"delivery_time":51,
+		"min_order": 50
+	},
+	{
+		"id": 5,
+		"name": "Oriental Mom",
+		"category": "chinese",
+		"ratings": 3.9,
+		"delivery_time":49,
+		"min_order": 50
+	},
+	{
+		"id": 6,
+		"name": "Biryani By Kilo",
+		"category": "Non Veg",
+		"ratings": 4.4,
+		"delivery_time":55,
+		"min_order": 199
+	},
+	{
+		"id": 7,
+		"name": "Punjab Grill",
+		"category": "Non Veg",
+		"ratings": 3.9,
+		"delivery_time":47,
+		"min_order": 99
+	},
+	{
+		"id": 8,
+		"name": "Biryani Battuta",
+		"category": "Non Veg",
+		"ratings": 3.9,
+		"delivery_time":45,
+		"min_order": 50
+	},
+	{
+		"id": 9,
+		"name": "Indish",
+		"category": "Non Veg",
+		"ratings": 3.9,
+		"delivery_time":41,
+		"min_order": 50
+	},
+	{
+		"id": 10,
+		"name": "Biryani Badshah",
+		"category": "Non Veg",
+		"ratings": 4.2,
+		"delivery_time":34,
+		"min_order": 50
+	},
+	{
+		"id": 11,
+		"name": "Bikanervala Angan",
+		"category": "Veg",
+		"ratings": 4.2,
+		"delivery_time":30,
+		"min_order": 50
+	},
+	{
+		"id": 12,
+		"name": "Saravana Bhavan",
+		"category": "Veg",
+		"ratings": 4.3,
+		"delivery_time":34,
+		"min_order": 50
+	},
+	{
+		"id": 13,
+		"name": "Haldiram's",
+		"category": "Veg",
+		"ratings": 3.9,
+		"delivery_time":39,
+		"min_order": 50
+	},
+	{
+		"id": 14,
+		"name": "Kaleva",
+		"category": "Veg",
+		"ratings": 4.3,
+		"delivery_time":32,
+		"min_order": 50
+	},
+	{
+		"id": 15,
+		"name": "Gyan's",
+		"category": "Veg",
+		"ratings": 4.2,
+		"delivery_time":49,
+		"min_order": 50
+	},
+	{
+		"id": 16,
+		"name": "Cremeborne",
+		"category": "Desserts",
+		"ratings": 3.6,
+		"delivery_time":45,
+		"min_order": 50
+	},
+	{
+		"id": 17,
+		"name": "Keventers - Milkshakes",
+		"category": "Desserts",
+		"ratings": 4.4,
+		"delivery_time":50,
+		"min_order": 26
+	},
+	{
+		"id": 18,
+		"name": "Nirula's Ice Cream",
+		"category": "Desserts",
+		"ratings": 3.9,
+		"delivery_time":31,
+		"min_order": 50
+	}
+
+]
