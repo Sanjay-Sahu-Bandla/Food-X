@@ -2,11 +2,11 @@
 
 An Online food delivery system - A Laravel project (v7.0), made responsive for both desktop and mobile devices.
 
-![Screenshot 1](https://github.com/Sanjay-Sahu-Bandla/Food-X/blob/master/public/screenshots/home.png.png?raw=true)
+![Screenshot 1](https://github.com/Sanjay-Sahu-Bandla/Food-X/blob/master/public/screenshots/home.png?raw=true)
 
-![Screenshot 2](https://github.com/Sanjay-Sahu-Bandla/Food-X/blob/master/public/screenshots/home2.png.png?raw=true)
+![Screenshot 2](https://github.com/Sanjay-Sahu-Bandla/Food-X/blob/master/public/screenshots/home2.png?raw=true)
 
-To see more screenshots of this project just [click](https://github.com/Sanjay-Sahu-Bandla/Food-X/public/screenshots/) here.
+To see more screenshots of this project just [click](https://github.com/Sanjay-Sahu-Bandla/Food-X/tree/master/public/screenshots/) here.
 
 
 ## Usage
